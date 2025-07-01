@@ -1,0 +1,3 @@
+Coloque o arquivo 'comandos.txt' na mesma pasta que o programa simpletron.c
+
+Se for utilizar algum arquivo txt próprio, faça o mesmo que a instrução anterior.
